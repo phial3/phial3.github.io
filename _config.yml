@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: ""
-url: https://github.com/phial3
+url: https://mazhuang.org
 date_format: "ordinal"
 title: DataFlow
 subtitle: "燕南飞"
@@ -11,7 +11,7 @@ keywords: 程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2026
 # 源码仓库，请替换成自己的
 repository: phial3/phial3.github.io
 # 对 css 和 js 资源的 cdn 加速配置
